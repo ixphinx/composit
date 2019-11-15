@@ -1,0 +1,29 @@
+{
+  "name": "composit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.7.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "scripts": {
+    "start": "nodemon ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixphinx/composit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ixphinx/composit/issues"
+  },
+  "homepage": "https://github.com/ixphinx/composit#readme",
+  "keywords": [],
+  "description": ""
+}
